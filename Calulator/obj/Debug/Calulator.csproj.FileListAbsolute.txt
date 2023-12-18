@@ -1,0 +1,15 @@
+D:\C_Plus_code\MFP\Calulator\Calulator\bin\Debug\Calulator.exe.config
+D:\C_Plus_code\MFP\Calulator\Calulator\bin\Debug\Calulator.exe
+D:\C_Plus_code\MFP\Calulator\Calulator\bin\Debug\Calulator.pdb
+D:\C_Plus_code\MFP\Calulator\Calulator\obj\Debug\Calulator.csproj.AssemblyReference.cache
+D:\C_Plus_code\MFP\Calulator\Calulator\obj\Debug\MainWindow.g.cs
+D:\C_Plus_code\MFP\Calulator\Calulator\obj\Debug\App.g.cs
+D:\C_Plus_code\MFP\Calulator\Calulator\obj\Debug\Calulator_MarkupCompile.cache
+D:\C_Plus_code\MFP\Calulator\Calulator\obj\Debug\Calulator_MarkupCompile.lref
+D:\C_Plus_code\MFP\Calulator\Calulator\obj\Debug\MainWindow.baml
+D:\C_Plus_code\MFP\Calulator\Calulator\obj\Debug\Calulator.g.resources
+D:\C_Plus_code\MFP\Calulator\Calulator\obj\Debug\Calulator.Properties.Resources.resources
+D:\C_Plus_code\MFP\Calulator\Calulator\obj\Debug\Calulator.csproj.GenerateResource.cache
+D:\C_Plus_code\MFP\Calulator\Calulator\obj\Debug\Calulator.csproj.CoreCompileInputs.cache
+D:\C_Plus_code\MFP\Calulator\Calulator\obj\Debug\Calulator.exe
+D:\C_Plus_code\MFP\Calulator\Calulator\obj\Debug\Calulator.pdb
